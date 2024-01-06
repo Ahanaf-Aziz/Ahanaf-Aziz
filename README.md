@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ahanaf-Aziz
-- 👀 I’m interested in Programming , AI and ML 
-- 🌱 I’m currently learning Programming 
+- 👀 I’m interested in Competitive Programming , AI and ML 
+- 🌱 I’m currently learning Competitive Programming 
 - 💞️ I’m looking to collaborate on any projects related to AI or ML 
 - 📫 How to reach me to LinkedIn, Discord 
 
